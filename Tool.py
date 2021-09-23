@@ -1,3 +1,4 @@
+# Made By Khackers Comunity
 import AminoLab
 import samino
 from threading import Thread
